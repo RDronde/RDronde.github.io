@@ -1,3 +1,3 @@
 <?php
  	$a = 'User';
-	echo $a;
+	echo $a.'ewa';
