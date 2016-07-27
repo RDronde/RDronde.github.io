@@ -1,3 +1,3 @@
 <?php
- 
-	echo 'User';
+ 	$a = 'User';
+	echo $a;
